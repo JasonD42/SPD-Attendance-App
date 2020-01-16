@@ -18,6 +18,7 @@ struct ContentView: View {
                 Text("SPD Attendance")
                     .font(.title)
                     .foregroundColor(.red)
+                MemberList()
             }
         }
         
