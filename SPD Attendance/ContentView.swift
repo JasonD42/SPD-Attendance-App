@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     
-    var uncheckedList : MemberList
+    @EnvironmentObject var uncheckedList : MemberList
     
     var body: some View {
         VStack {
@@ -29,8 +29,10 @@ struct ContentView: View {
                         self.uncheckedList.list.remove(atOffsets: atIndexSet)
                     }
                 }
+            .navigationBarTitle(Text("Unchecked").foregroundColor(.black)
+                .font(.title))
             }
-            .navigationBarTitle(Text("Unchecked"))
+            
         }
         .frame(minWidth: 0, maxWidth: .infinity)
         .padding(5)
@@ -39,6 +41,6 @@ struct ContentView: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView(uncheckedList: MemberList())
+        ContentView().environmentObject(MemberList())
     }
 }

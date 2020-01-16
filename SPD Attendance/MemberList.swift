@@ -6,10 +6,13 @@
 //  Copyright © 2020 Jason Drews. All rights reserved.
 //
 
-import SwiftUI
+import Combine
 
 class MemberList: ObservableObject {
     
-    var list : Array<Member> = memberData
+    //var list : Array<Member> = memberData
+    @Published var list = memberData.map {member in
+        Member(id: member.id, FirstName: member.FirstName, LastName: member.LastName)
+    }
     
 }
