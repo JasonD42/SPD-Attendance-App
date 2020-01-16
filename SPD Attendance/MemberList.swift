@@ -12,6 +12,7 @@ struct MemberList: View {
     var body: some View {
         VStack {
             ForEach(memberData) { member in
+                
                 MemberRow(member: member)
             }
         }

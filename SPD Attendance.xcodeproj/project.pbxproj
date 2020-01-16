@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6AF33B9423D03FCC00D83D31 /* spd_sp20.json in Resources */ = {isa = PBXBuildFile; fileRef = 6AF33B9323D03FCC00D83D31 /* spd_sp20.json */; };
 		6AF3B8A023D0191600F307CD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AF3B89F23D0191600F307CD /* AppDelegate.swift */; };
 		6AF3B8A223D0191600F307CD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AF3B8A123D0191600F307CD /* SceneDelegate.swift */; };
 		6AF3B8A423D0191600F307CD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AF3B8A323D0191600F307CD /* ContentView.swift */; };
@@ -39,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6AF33B9323D03FCC00D83D31 /* spd_sp20.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = spd_sp20.json; sourceTree = SOURCE_ROOT; };
 		6AF3B89C23D0191600F307CD /* SPD Attendance.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SPD Attendance.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AF3B89F23D0191600F307CD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6AF3B8A123D0191600F307CD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -84,6 +86,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6AF33B9223D03FB300D83D31 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				6AF33B9323D03FCC00D83D31 /* spd_sp20.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		6AF3B89323D0191600F307CD = {
 			isa = PBXGroup;
 			children = (
@@ -107,7 +117,7 @@
 		6AF3B89E23D0191600F307CD /* SPD Attendance */ = {
 			isa = PBXGroup;
 			children = (
-				6AF3B8D723D029AE00F307CD /* Resources */,
+				6AF33B9223D03FB300D83D31 /* Resources */,
 				6AF3B8A123D0191600F307CD /* SceneDelegate.swift */,
 				6AF3B89F23D0191600F307CD /* AppDelegate.swift */,
 				6AF3B8A323D0191600F307CD /* ContentView.swift */,
@@ -146,13 +156,6 @@
 				6AF3B8C323D0191C00F307CD /* Info.plist */,
 			);
 			path = "SPD AttendanceUITests";
-			sourceTree = "<group>";
-		};
-		6AF3B8D723D029AE00F307CD /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Resources;
 			sourceTree = "<group>";
 		};
 		6AF3B8DC23D02C2300F307CD /* Models */ = {
@@ -268,6 +271,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6AF33B9423D03FCC00D83D31 /* spd_sp20.json in Resources */,
 				6AF3B8AC23D0191B00F307CD /* LaunchScreen.storyboard in Resources */,
 				6AF3B8A923D0191B00F307CD /* Preview Assets.xcassets in Resources */,
 				6AF3B8A623D0191B00F307CD /* Assets.xcassets in Resources */,

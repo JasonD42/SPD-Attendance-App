@@ -11,14 +11,17 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         ZStack {
-            Color.black
-                .edgesIgnoringSafeArea(.all)
+            //Color.black
+            //    .edgesIgnoringSafeArea(.all)
             
             VStack {
                 Text("SPD Attendance")
                     .font(.title)
                     .foregroundColor(.red)
-                MemberList()
+                ScrollView {
+                    MemberList()
+                }
+                
             }
         }
         
