@@ -10,7 +10,7 @@ import UIKit
 import SwiftUI
 import CoreLocation
 
-let memberData: [Member] = load("spd_sp20.json")
+let memberData: Array<Member> = load("spd_sp20.json")
 
 func load<T: Decodable>(_ filename: String) -> T {
     let data: Data

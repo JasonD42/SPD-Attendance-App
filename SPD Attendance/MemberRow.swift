@@ -14,9 +14,9 @@ struct MemberRow: View {
     var body: some View {
         HStack {
             Text(member.FirstName + " " + member.LastName)
-                .foregroundColor(.white)
+                .foregroundColor(.black)
         }
-        .padding(10)
+        .padding(5)
     }
 }
 
