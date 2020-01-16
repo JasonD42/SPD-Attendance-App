@@ -1,0 +1,317 @@
+[
+  {
+    "LastName": "Alamgir",
+    "FirstName": "Shar",
+    "Email": "alamgir2@illinois.edu"
+  },
+  {
+    "LastName": "Anderson",
+    "FirstName": "Jacob",
+    "Email": "Jea2@illinois.edu"
+  },
+  {
+    "LastName": "Armgardt",
+    "FirstName": "John",
+    "Email": "johnra2@illinois.edu"
+  },
+  {
+    "LastName": "Atac",
+    "FirstName": "Sam",
+    "Email": "satac2@illinois.edu"
+  },
+  {
+    "LastName": "Banerjee",
+    "FirstName": "Pranav",
+    "Email": "pranavb3@illinois.edu"
+  },
+  {
+    "LastName": "Bernstein",
+    "FirstName": "Jonathan",
+    "Email": "jmb6@illinois.edu"
+  },
+  {
+    "LastName": "Cakulev",
+    "FirstName": "Filip",
+    "Email": "cak.filip125@gmail.com"
+  },
+  {
+    "LastName": "Chiodini",
+    "FirstName": "Brandon",
+    "Email": "btc2@illinois.edu"
+  },
+  {
+    "LastName": "Christensen",
+    "FirstName": "Andy",
+    "Email": "andrewc6@illinois.edu"
+  },
+  {
+    "LastName": "Chung",
+    "FirstName": "Adam",
+    "Email": "chs.adamc@gmail.com"
+  },
+  {
+    "LastName": "Dannhausen-Brun",
+    "FirstName": "Jacob",
+    "Email": "jdannhausenbrun@gmail.com"
+  },
+  {
+    "LastName": "Desai",
+    "FirstName": "Dev",
+    "Email": "devgd2@illinois.edu"
+  },
+  {
+    "LastName": "Drews",
+    "FirstName": "Jason",
+    "Email": "jmdrews2@illinois.edu"
+  },
+  {
+    "LastName": "Ernst",
+    "FirstName": "Robbie",
+    "Email": "rbe2@illinois.edu"
+  },
+  {
+    "LastName": "Ettleson",
+    "FirstName": "Jacob",
+    "Email": "jwe2@illinois.edu"
+  },
+  {
+    "LastName": "Foley",
+    "FirstName": "Gordy",
+    "Email": "gjfoley2@illinois.edu"
+  },
+  {
+    "LastName": "Frank",
+    "FirstName": "Justin",
+    "Email": "justinf2@Illinois.edu"
+  },
+  {
+    "LastName": "Giglio",
+    "FirstName": "Joseph",
+    "Email": "jgiglio2@illinois.edu"
+  },
+  {
+    "LastName": "Glikin",
+    "FirstName": "Michael",
+    "Email": "mglikin2@illinois.edu"
+  },
+  {
+    "LastName": "Huang",
+    "FirstName": "Tyler",
+    "Email": "tylerh4@illinois.edu"
+  },
+  {
+    "LastName": "Jain",
+    "FirstName": "Arnav",
+    "Email": "Arnavj3@illinois.edu"
+  },
+  {
+    "LastName": "Krysl",
+    "FirstName": "Alexander",
+    "Email": "krysl2@illinois.edu"
+  },
+  {
+    "LastName": "Machado",
+    "FirstName": "Ricky",
+    "Email": "rmacha2@illinois.edu"
+  },
+  {
+    "LastName": "Mansharamani",
+    "FirstName": "Aditya",
+    "Email": "adityam5@illinois.edu"
+  },
+  {
+    "LastName": "McGinnis",
+    "FirstName": "MJ",
+    "Email": "mlm6@illinois.edu"
+  },
+  {
+    "LastName": "Metzkes",
+    "FirstName": "Mason",
+    "Email": "metzkes2@illinois.edu"
+  },
+  {
+    "LastName": "Mitcheff",
+    "FirstName": "Alec",
+    "Email": "alecfm2@illinois.edu"
+  },
+  {
+    "LastName": "Morrow",
+    "FirstName": "Sahil",
+    "Email": "sahilsm2@illinois.edu"
+  },
+  {
+    "LastName": "Mujumdar",
+    "FirstName": "Matt",
+    "Email": "mmujumdar22@gmail.com"
+  },
+  {
+    "LastName": "Ng",
+    "FirstName": "Thomas",
+    "Email": "thomasn3@illinois.edu"
+  },
+  {
+    "LastName": "Pagos",
+    "FirstName": "Paul",
+    "Email": "pagos2@illinois.edu"
+  },
+  {
+    "LastName": "Patel",
+    "FirstName": "Yogin",
+    "Email": "yogin2@illinois.edu"
+  },
+  {
+    "LastName": "Polyakov",
+    "FirstName": "Danny",
+    "Email": "danielp4@illinois.edu"
+  },
+  {
+    "LastName": "Popp",
+    "FirstName": "Will",
+    "Email": "williampopp1@yahoo.com"
+  },
+  {
+    "LastName": "Rahim",
+    "FirstName": "Rohit",
+    "Email": "hrahim2@illinois.edu"
+  },
+  {
+    "LastName": "Rajlich",
+    "FirstName": "Jacob",
+    "Email": "mrajlich@illinois.edu"
+  },
+  {
+    "LastName": "Raszewski",
+    "FirstName": "Robert",
+    "Email": "rjr3@illinois.edu"
+  },
+  {
+    "LastName": "Rosenberg",
+    "FirstName": "Mason",
+    "Email": "masonsr2@illinois.edu"
+  },
+  {
+    "LastName": "Ruffolo",
+    "FirstName": "Enrico",
+    "Email": "enricor2@illinois.edu"
+  },
+  {
+    "LastName": "Ruscito",
+    "FirstName": "Michael",
+    "Email": "ruscito2@illinois.edu"
+  },
+  {
+    "LastName": "Ruth",
+    "FirstName": "James",
+    "Email": "jmruth2@illinois.edu"
+  },
+  {
+    "LastName": "Sacks",
+    "FirstName": "Evan",
+    "Email": "esacks3@illinois.edu"
+  },
+  {
+    "LastName": "Salzberg",
+    "FirstName": "Kyle",
+    "Email": "kylets2@illinois.edu"
+  },
+  {
+    "LastName": "Schonken",
+    "FirstName": "Benjamin",
+    "Email": "Bes3@illinois.edu"
+  },
+  {
+    "LastName": "Suresh",
+    "FirstName": "Rohan",
+    "Email": "rohanjs2@illinois.edu"
+  },
+  {
+    "LastName": "Upadhyay",
+    "FirstName": "Shyam",
+    "Email": "smu2@illinois.edu"
+  },
+  {
+    "LastName": "Vanthournout",
+    "FirstName": "Andrew",
+    "Email": "vnthrnt2@illinois.edu"
+  },
+  {
+    "LastName": "Weberski",
+    "FirstName": "Matthew",
+    "Email": "mwebers2@illinois.edu"
+  },
+  {
+    "LastName": "Weger",
+    "FirstName": "Nick",
+    "Email": "nweger2@illinois.edu"
+  },
+  {
+    "LastName": "Yang",
+    "FirstName": "Patrick",
+    "Email": "pyyang2@illinois.edu"
+  },
+  {
+    "LastName": "Beusse",
+    "FirstName": "Andrew",
+    "Email": "abeusse2@illinois.edu"
+  },
+  {
+    "LastName": "Bingenheimer",
+    "FirstName": "Nick",
+    "Email": "nbinge2@illinois.edu"
+  },
+  {
+    "LastName": "Brown",
+    "FirstName": "Grant",
+    "Email": "grantrb2@illinois.edu"
+  },
+  {
+    "LastName": "DeGonia",
+    "FirstName": "Jack",
+    "Email": "jackgd3@illinois.edu"
+  },
+  {
+    "LastName": "Ellis",
+    "FirstName": "Tom",
+    "Email": "tce2@illinois.edu"
+  },
+  {
+    "LastName": "Galik",
+    "FirstName": "Alex",
+    "Email": "galika1080@gmail.com"
+  },
+  {
+    "LastName": "Keserovic",
+    "FirstName": "Dino",
+    "Email": "akeser2@illinois.edu"
+  },
+  {
+    "LastName": "Krowicki",
+    "FirstName": "Nicholas",
+    "Email": "nrk3@illinois.edu"
+  },
+  {
+    "LastName": "Lin",
+    "FirstName": "Link",
+    "Email": "ziqil4@illinois.edu"
+  },
+  {
+    "LastName": "Lotarski",
+    "FirstName": "Matt",
+    "Email": "ml68@illinois.edu"
+  },
+  {
+    "LastName": "Qualizza",
+    "FirstName": "Nicholas",
+    "Email": "nq3@illinois.edu"
+  },
+  {
+    "LastName": "Shin",
+    "FirstName": "Owen",
+    "Email": "owenjs2@illinois.edu"
+  },
+  {
+    "LastName": "Spatz",
+    "FirstName": "Dan",
+    "Email": "dspatz2@illinois.edu"
+  }
+]
