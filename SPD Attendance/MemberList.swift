@@ -9,11 +9,18 @@
 import SwiftUI
 
 struct MemberList: View {
+    
     var body: some View {
         VStack {
             ForEach(memberData) { member in
-                
-                MemberRow(member: member)
+                Button(action: {
+                    print("Buttons!")
+                }) {
+                    MemberRow(member: member)
+                }
+                .background(Color.blue)
+                .cornerRadius(40)
+                .padding()
             }
         }
     }
