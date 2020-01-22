@@ -20,14 +20,24 @@
     "id": "satac2@illinois.edu"
   },
   {
-    "LastName": "Banerjee",
-    "FirstName": "Pranav",
-    "id": "pranavb3@illinois.edu"
-  },
-  {
     "LastName": "Bernstein",
     "FirstName": "Jonathan",
     "id": "jmb6@illinois.edu"
+  },
+  {
+    "LastName": "Beusse",
+    "FirstName": "Andrew",
+    "id": "abeusse2@illinois.edu"
+  },
+  {
+    "LastName": "Bingenheimer",
+    "FirstName": "Nick",
+    "id": "nbinge2@illinois.edu"
+  },
+  {
+    "LastName": "Brown",
+    "FirstName": "Grant",
+    "id": "grantrb2@illinois.edu"
   },
   {
     "LastName": "Cakulev",
@@ -55,6 +65,11 @@
     "id": "jdannhausenbrun@gmail.com"
   },
   {
+    "LastName": "DeGonia",
+    "FirstName": "Jack",
+    "id": "jackgd3@illinois.edu"
+  },
+  {
     "LastName": "Desai",
     "FirstName": "Dev",
     "id": "devgd2@illinois.edu"
@@ -63,6 +78,11 @@
     "LastName": "Drews",
     "FirstName": "Jason",
     "id": "jmdrews2@illinois.edu"
+  },
+  {
+    "LastName": "Ellis",
+    "FirstName": "Tom",
+    "id": "tce2@illinois.edu"
   },
   {
     "LastName": "Ernst",
@@ -85,6 +105,11 @@
     "id": "justinf2@Illinois.edu"
   },
   {
+    "LastName": "Galik",
+    "FirstName": "Alex",
+    "id": "galika1080@gmail.com"
+  },
+  {
     "LastName": "Giglio",
     "FirstName": "Joseph",
     "id": "jgiglio2@illinois.edu"
@@ -105,9 +130,29 @@
     "id": "Arnavj3@illinois.edu"
   },
   {
+    "LastName": "Keserovic",
+    "FirstName": "Dino",
+    "id": "akeser2@illinois.edu"
+  },
+  {
+    "LastName": "Krowicki",
+    "FirstName": "Nicholas",
+    "id": "nrk3@illinois.edu"
+  },
+  {
     "LastName": "Krysl",
     "FirstName": "Alexander",
     "id": "krysl2@illinois.edu"
+  },
+  {
+    "LastName": "Lin",
+    "FirstName": "Link",
+    "id": "ziqil4@illinois.edu"
+  },
+  {
+    "LastName": "Lotarski",
+    "FirstName": "Matt",
+    "id": "ml68@illinois.edu"
   },
   {
     "LastName": "Machado",
@@ -150,6 +195,11 @@
     "id": "thomasn3@illinois.edu"
   },
   {
+    "LastName": "Nolte",
+    "FirstName": "Dustin",
+    "id": "DustinN99@gmail.com"
+  },
+  {
     "LastName": "Pagos",
     "FirstName": "Paul",
     "id": "pagos2@illinois.edu"
@@ -170,9 +220,9 @@
     "id": "williampopp1@yahoo.com"
   },
   {
-    "LastName": "Rahim",
-    "FirstName": "Rohit",
-    "id": "hrahim2@illinois.edu"
+    "LastName": "Qualizza",
+    "FirstName": "Nicholas",
+    "id": "nq3@illinois.edu"
   },
   {
     "LastName": "Rajlich",
@@ -220,6 +270,16 @@
     "id": "Bes3@illinois.edu"
   },
   {
+    "LastName": "Shin",
+    "FirstName": "Owen",
+    "id": "owenjs2@illinois.edu"
+  },
+  {
+    "LastName": "Spatz",
+    "FirstName": "Dan",
+    "id": "dspatz2@illinois.edu"
+  },
+  {
     "LastName": "Suresh",
     "FirstName": "Rohan",
     "id": "rohanjs2@illinois.edu"
@@ -248,70 +308,5 @@
     "LastName": "Yang",
     "FirstName": "Patrick",
     "id": "pyyang2@illinois.edu"
-  },
-  {
-    "LastName": "Beusse",
-    "FirstName": "Andrew",
-    "id": "abeusse2@illinois.edu"
-  },
-  {
-    "LastName": "Bingenheimer",
-    "FirstName": "Nick",
-    "id": "nbinge2@illinois.edu"
-  },
-  {
-    "LastName": "Brown",
-    "FirstName": "Grant",
-    "id": "grantrb2@illinois.edu"
-  },
-  {
-    "LastName": "DeGonia",
-    "FirstName": "Jack",
-    "id": "jackgd3@illinois.edu"
-  },
-  {
-    "LastName": "Ellis",
-    "FirstName": "Tom",
-    "id": "tce2@illinois.edu"
-  },
-  {
-    "LastName": "Galik",
-    "FirstName": "Alex",
-    "id": "galika1080@gmail.com"
-  },
-  {
-    "LastName": "Keserovic",
-    "FirstName": "Dino",
-    "id": "akeser2@illinois.edu"
-  },
-  {
-    "LastName": "Krowicki",
-    "FirstName": "Nicholas",
-    "id": "nrk3@illinois.edu"
-  },
-  {
-    "LastName": "Lin",
-    "FirstName": "Link",
-    "id": "ziqil4@illinois.edu"
-  },
-  {
-    "LastName": "Lotarski",
-    "FirstName": "Matt",
-    "id": "ml68@illinois.edu"
-  },
-  {
-    "LastName": "Qualizza",
-    "FirstName": "Nicholas",
-    "id": "nq3@illinois.edu"
-  },
-  {
-    "LastName": "Shin",
-    "FirstName": "Owen",
-    "id": "owenjs2@illinois.edu"
-  },
-  {
-    "LastName": "Spatz",
-    "FirstName": "Dan",
-    "id": "dspatz2@illinois.edu"
   }
 ]
